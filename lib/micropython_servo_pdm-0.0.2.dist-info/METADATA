@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: micropython-servo-pdm
+Version: 0.0.2
+Summary: This is a micropython library for control continuous servo by PDM (PWM).
+Home-page: https://github.com/TTitanUA/micropython_servo_pdm
+Author: TTitanUA
+Author-email: xttitanx@gmail.com
+License: MIT
+
