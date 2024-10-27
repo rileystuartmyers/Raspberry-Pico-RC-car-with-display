@@ -21,8 +21,9 @@
 
  # Parts List
 
-  # Blarg
-  # Blarg2
+  * Blarg
+  * blagr2
+  * ba;lkrjg
  
 # Board Schema
 
