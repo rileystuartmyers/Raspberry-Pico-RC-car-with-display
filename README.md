@@ -21,9 +21,15 @@
 
  # Parts List
 
-  * Blarg
-  * blagr2
-  * ba;lkrjg
+  * 1x  Raspberry Pi Pico
+  * 1x  16x2 Digital LCD Display
+  * 2x  Continuous-Rotation Servo Motor
+  * 1x  IR Receiver
+  * 1x  IR Remote
+  * 1x Blank PCB
+  * 4x 1.5V AA Batteries
+  * 1x Flat Wooden/Cardboard Platform
+  * ~  Appropriate number of Dupont and Jumper Cables
  
 # Board Schema
 
