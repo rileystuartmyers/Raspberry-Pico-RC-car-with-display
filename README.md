@@ -29,6 +29,7 @@
   * 1x Blank PCB
   * 4x 1.5V AA Batteries
   * 1x Flat Wooden/Cardboard Platform
+  * ~  Solder
   * ~  Appropriate number of Dupont and Jumper Cables
  
 # Board Schema
