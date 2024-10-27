@@ -22,7 +22,7 @@
 # Board Schema
 
  <p float = "left">
-  <img src = "https://github.com/rileystuartmyers/Raspberry-Pico-RC-car-with-display/blob/650f0e7681261073e60a8d31d87e2fcc29cd55f5/IMG_8870.JPG" width = 600 height = 500>
+  <img src = "https://github.com/rileystuartmyers/Raspberry-Pico-RC-car-with-display/blob/650f0e7681261073e60a8d31d87e2fcc29cd55f5/IMG_8870.JPG" width = 850 height = 500>
  </p>
 
 # More Images
