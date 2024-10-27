@@ -18,6 +18,11 @@
   The entire project is powered by 4xAA batteries.
   
  </p>
+
+ # Parts List
+
+  # Blarg
+  # Blarg2
  
 # Board Schema
 
